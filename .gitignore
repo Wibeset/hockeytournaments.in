@@ -1,0 +1,9 @@
+/vendor
+/bootstrap/compiled.php
+/cache
+._*
+*.sublime-*
+/node_modules
+.sass-cache
+.DS_Store
+.idea
