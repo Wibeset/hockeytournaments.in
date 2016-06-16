@@ -1,8 +1,8 @@
-# Hockey tournments in ...
+# Hockey tournaments in ...
 
-We're making it easier to find hockey tournments near you: maps and directions to ice hockey tournments throughout North America.
+We're making it easier to find hockey tournaments near you: maps and directions to ice hockey tournaments throughout North America.
 
-http://www.hockeytournments.in
+http://www.hockeytournaments.in
 
 ## Others projects
 
